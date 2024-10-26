@@ -31,8 +31,8 @@ Para executar o notebook, você precisará dos seguintes pacotes:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/No-PhD-Required-IA-Generativa-com-Keras.git
-   cd No-PhD-Required-IA-Generativa-com-Keras
+   git clone https://github.com/ahirtonlopes/DevFest-BH.git
+   cd DevFest-BH
    ```
 2. Abra o notebook `Demo_Variational_Autoencoders.ipynb` em seu ambiente Jupyter ou Colab e execute as células sequencialmente para ver o VAE em ação.
 
